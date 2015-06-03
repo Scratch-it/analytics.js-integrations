@@ -73,6 +73,7 @@ module.exports = [
   require('./lib/route'),
   require('./lib/saasquatch'),
   require('./lib/satismeter'),
+  require('./lib/scratch-it'),
   require('./lib/segmentio'),
   require('./lib/sentry'),
   require('./lib/snapengage'),
